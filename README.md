@@ -100,10 +100,12 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 * Click <b>“Add”</b>
 
 * Open up KeyChain Access again
+* Find the two profiles you created in Step 1 (with the iOS Developer Common Name)
 
 ![Image](./3-02.png)
 
-* Find the two profiles you created in Step 1 (with the iOS Developer Common Name)
+* You should now be able to expand the <b>“private key”</b> profile
+<br>which should show the certificate you just added
 
 ![Image](./3-03.png)
 
