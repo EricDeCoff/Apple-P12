@@ -6,7 +6,9 @@
 <br>otherwise this process will not work correctly
 <br>From the toolbar, open Keychain Access > Preferences
 * In the pop up window that appears, click the Certificates tab
+* 
 ![Image](./1-01.png)
+
 * Set both: 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Online Certificate Status Protocol” = “Off”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Certificate Revocation List” = “Off”</b>
