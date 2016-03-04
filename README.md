@@ -109,15 +109,13 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./3-03.png)
 
-* You should now be able to expand the <b>“private key”</b> profile
-<br>which should show the certificate you just added
-
-![Image](./3-04.png)
-
 * Select only these two items (not the public key), by holding SHIFT and clicking both items
 * Right click
 
-![Image](./3-05.png)
+![Image](./3-04.png)
 
 * Click <b>“Export 2 items…”</b> from the popup
 * Make sure the file format is a <b>“.p12”</b> and choose a filename and destination on your hard drive
+
+![Image](./3-05.png)
+
