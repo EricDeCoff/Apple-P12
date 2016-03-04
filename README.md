@@ -26,9 +26,10 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“CA Email”</b> ( <b>Leave blank</b> )
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Saved to disk”</b> ( <b>selected</b> )
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Let me specify key pair information” ( <b>checked</b> )
+
 Click Continue
 Choose a filename & destination on your hard drive
-(e.g. “certificate.certSigningRequest”)
+(e.g. “companyName.certSigningRequest”)
 Click Save
 In the next window, for “Key Size” choose “2048 bits”
 
