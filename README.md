@@ -64,10 +64,24 @@ A public and private key will also be created in Keychain Access with the Common
 
 ![Image](./2-04.png)
 
-In the main panel ( Select <b>“Development”<b> or <b>“Production”</b> Option needed )
+In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> Option needed )
 
 ![Image](./2-05.png)
 
+* Click Continue
+
+![Image](./2-06.png)
+
+* Click Continue
+
+![Image](./2-07.png)
+
+* Click <b>“Choose File”</b> & find the CSR file you’ve just made from your hard drive
+* Click <b>“Generate”</b> and wait for the file to process 
+
+![Image](./2-08.png)
+
+* Click <b>“Download”</b> to get the file, and then click the Done button at the bottom once the download has finished
 
 ```bash
 # Setup one create 
