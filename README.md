@@ -50,8 +50,22 @@ A public and private key will also be created in Keychain Access with the Common
 
 ![Image](./2-01.png)
 
-* Click “Certificates, Identifiers & Profiles”
+* Click <b>“Certificates, Identifiers & Profiles”</b>
 
+![Image](./2-02.png)
+
+* Click <b>“Provisioning Profiles”</b> from the left-hand column
+
+![Image](./2-03.png)
+
+* In the <b>“Certificates”</b> section at the top of the left-hand panel
+* Click <b>“Production”</b>
+
+![Image](./2-04.png)
+
+* Click the <b>“Add” (+)</b> button at the top-right of the main panel
+
+![Image](./2-05.png)
 
 
 ```bash
