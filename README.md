@@ -9,6 +9,10 @@
 <br>From the toolbar, open Keychain Access > Preferences
 * In the pop up window that appears, click the Certificates tab
 ![Image](./01.png)
+* Set both <b>“Online Certificate Status Protocol”</b> and <b>“Certificate Revocation List”</b> to <b>“Off”<b>
+<br>( <b>see screenshot above</b> )
+* Close this window
+* Back in the toolbar, open Keychain Access > Certificate Assistant > Request a Certificate From a Certificate Authority
 
 ## Step 2
 
