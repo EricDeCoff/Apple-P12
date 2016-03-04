@@ -45,7 +45,7 @@
 This will create and save your certSigningRequest file (CSR) to your hard drive. 
 A public and private key will also be created in Keychain Access with the Common Name you entered earlier (e.g. John Smith)
 
-
+![Image](./04.png)
 
 ## Step 2
 
