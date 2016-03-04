@@ -19,7 +19,9 @@
 
 * In the Keychain Access toolbar
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Open Keychain Access > Certificate Assistant > Request a Certificate From a Certificate Authority
+
 ![Image](./1-02.png)
+
 * Enter:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“User Email Address”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Common Name” ( name of the developer as it appears in your Apple Developer Account )</b>
@@ -35,7 +37,9 @@
 <br>
 <br>
 * In the next window
+
 ![Image](./1-03.png)
+
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Key Size” = “2048 bits”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Algorithm” choose “RSA”</b>
 <br>
@@ -85,3 +89,10 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 * Click <b>“Download”</b> to get the file, and then click the Done button at the bottom once the download has finished
 
 ## STEP 3: Install the .cer and generate the .p12
+
+*Find the .cer file you’ve just downloaded and double-click. 
+<br>If the certificate hasn’t automatically been installed:
+<br>you will see the following (otherwise, skip the next two steps)
+
+![Image](./3-01.png)
+
