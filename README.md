@@ -72,7 +72,7 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./2-06.png)
 
-* Click Continue
+* Click <b>“Choose File”</b> & find the CSR file you’ve just made from your hard drive
 
 ![Image](./2-07.png)
 
