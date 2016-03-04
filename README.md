@@ -96,3 +96,12 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./3-01.png)
 
+* Make sure the drop-down is set to <b>“login”</b>
+* Click <b>“Add”</b>
+
+* Open up KeyChain Access again
+
+![Image](./3-02.png)
+
+* Find the two profiles you created in Step 1 (with the iOS Developer Common Name)
+
