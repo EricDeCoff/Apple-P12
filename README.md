@@ -47,8 +47,12 @@ A public and private key will also be created in Keychain Access with the Common
 
 ## STEP 2: Create the “.cer” file in your iOS Developer Account
 * Log on to https://developer.apple.com
-* Click “Certificates, Identifiers & Profiles”
+
 ![Image](./2-01.png)
+
+* Click “Certificates, Identifiers & Profiles”
+
+
 
 ```bash
 # Setup one create 
