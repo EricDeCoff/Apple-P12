@@ -6,7 +6,7 @@
 <br>otherwise this process will not work correctly
 <br>From the toolbar, open Keychain Access > Preferences
 * In the pop up window that appears, click the Certificates tab
-![Image](./01.png)
+![Image](./1-01.png)
 * Set both: 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Online Certificate Status Protocol” = “Off”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Certificate Revocation List” = “Off”</b>
@@ -17,7 +17,7 @@
 
 * In the Keychain Access toolbar
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Open Keychain Access > Certificate Assistant > Request a Certificate From a Certificate Authority
-![Image](./02.png)
+![Image](./1-02.png)
 * Enter:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“User Email Address”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Common Name” ( name of the developer as it appears in your Apple Developer Account )</b>
@@ -33,7 +33,7 @@
 <br>
 <br>
 * In the next window
-![Image](./03.png)
+![Image](./1-03.png)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Key Size” = “2048 bits”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Algorithm” choose “RSA”</b>
 <br>
@@ -43,7 +43,7 @@
 This will create and save your certSigningRequest file (CSR) to your hard drive. 
 A public and private key will also be created in Keychain Access with the Common Name you entered earlier (e.g. John Smith)
 
-![Image](./04.png)
+![Image](./1-04.png)
 
 ## STEP 2: Create the “.cer” file in your iOS Developer Account
 * Log on to https://developer.apple.com
