@@ -27,11 +27,12 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Saved to disk” ( selected )</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Let me specify key pair information” ( checked )</b>
 <br>
-<br>Click Continue
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Click Continue
 <br>
 <br>Choose a filename & destination on your hard drive ( e.g. “companyName.certSigningRequest” ) 
 <br>
-<br>Click Save
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Click Save
+<br>
 <br>
 * In the next window, for “Key Size” choose “2048 bits”
 ![Image](./03.png)
