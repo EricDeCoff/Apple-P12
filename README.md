@@ -76,12 +76,10 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./2-07.png)
 
-* Click <b>“Choose File”</b> & find the CSR file you’ve just made from your hard drive
 * Click <b>“Generate”</b> and wait for the file to process 
 
 ![Image](./2-08.png)
 
 * Click <b>“Download”</b> to get the file, and then click the Done button at the bottom once the download has finished
 
-```bash
-# Setup one create 
+## STEP 3: Install the .cer and generate the .p12
