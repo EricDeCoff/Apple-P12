@@ -90,7 +90,7 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ## STEP 3: Install the .cer and generate the .p12
 
-*Find the .cer file you’ve just downloaded and double-click. 
+* Find the .cer file you’ve just downloaded and double-click. 
 <br>If the certificate hasn’t automatically been installed:
 <br>you will see the following (otherwise, skip the next two steps)
 
