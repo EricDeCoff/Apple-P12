@@ -115,6 +115,9 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 ![Image](./3-04.png)
 
 * Make sure the file format is a <b>“.p12”</b> and choose a filename and destination on your hard drive
+* Click <b>“Save”</b>
 
 ![Image](./3-05.png)
+
+Finally, you’ll be prompted to set a password – but leave these both blank
 
