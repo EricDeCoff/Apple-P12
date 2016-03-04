@@ -29,7 +29,7 @@
 <br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Click Continue
 <br>
-<br>Choose a filename & destination on your hard drive ( e.g. “companyName.certSigningRequest” ) 
+<br>Choose a filename & destination on your hard drive ( e.g. “CommanName.certSigningRequest” ) 
 <br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Click Save
 <br>
