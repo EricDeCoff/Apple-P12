@@ -23,15 +23,18 @@
 * Enter:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“User Email Address”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Common Name” ( name of the developer as it appears in your Apple Developer Account )</b>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“CA Email”</b> ( <b>Leave blank</b> )
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Saved to disk”</b> ( <b>selected</b> )
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Let me specify key pair information” ( <b>checked</b> )
-
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“CA Email” ( Leave blank )</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Saved to disk” ( selected )</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Let me specify key pair information” ( checked )</b>
+<br>
 Click Continue
-Choose a filename & destination on your hard drive
-(e.g. “companyName.certSigningRequest”)
+<br>
+Choose a filename & destination on your hard drive ( e.g. “companyName.certSigningRequest” ) 
+<br>
 Click Save
+<br>
 In the next window, for “Key Size” choose “2048 bits”
+![Image](./03.png)
 
 ## Step 2
 
