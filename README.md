@@ -119,5 +119,5 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./3-05.png)
 
-Finally, you’ll be prompted to set a password – but leave these both blank
+Finally, you’ll be prompted to set a password
 
