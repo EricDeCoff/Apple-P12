@@ -22,8 +22,7 @@
 ![Image](./02.png)
 * Enter:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“User Email Address”</b>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Common Name”</b>
-<b>NOTE: Common name should be the name of the developer as it appears in your Apple Developer Account</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Common Name” ( name of the developer as it appears in your Apple Developer Account )</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“CA Email”</b> ( <b>Leave blank</b> )
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Saved to disk”</b> ( <b>selected</b> )
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Let me specify key pair information” ( <b>checked</b> )
