@@ -1,8 +1,6 @@
-# Apple-P12
-
 # Convert Apple Certificate into a P12 file
 
-## Step 1: Create a “.certSigningRequest” (CSR) file
+## STEP 1: Create a “.certSigningRequest” (CSR) file
 * Open Keychain Access on your Mac (found in Applications/Utilities)
 * In the main Keychain Access window ( <b>make sure that you don’t have a private key already selected</b> ) 
 <br>otherwise this process will not work correctly
@@ -47,7 +45,10 @@ A public and private key will also be created in Keychain Access with the Common
 
 ![Image](./04.png)
 
-## Step 2
+## STEP 2: Create the “.cer” file in your iOS Developer Account
+* Log on to https://developer.apple.com
+* Click “Certificates, Identifiers & Profiles”
+![Image](./2-01.png)
 
 ```bash
 # Setup one create 
