@@ -34,8 +34,18 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Click Save
 <br>
 <br>
-* In the next window, for “Key Size” choose “2048 bits”
+* In the next window
 ![Image](./03.png)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Key Size” = “2048 bits”</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Algorithm” choose “RSA”</b>
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Click Continue
+
+
+This will create and save your certSigningRequest file (CSR) to your hard drive. 
+A public and private key will also be created in Keychain Access with the Common Name you entered earlier (e.g. John Smith)
+
+
 
 ## Step 2
 
