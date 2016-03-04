@@ -60,10 +60,11 @@ A public and private key will also be created in Keychain Access with the Common
 
 * In the <b>“Certificates”</b> section at the top of the left-hand panel
 * Click <b>“Production”</b>
+* Click the <b>“Add” (+)</b> button at the top-right of the main panel
 
 ![Image](./2-04.png)
 
-* Click the <b>“Add” (+)</b> button at the top-right of the main panel
+In the main panel ( Select <b>“Development”<b> or <b>“Production”</b> Option needed )
 
 ![Image](./2-05.png)
 
