@@ -39,7 +39,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Key Size” = “2048 bits”</b>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>“Algorithm” choose “RSA”</b>
 <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Click Continue
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>Click Continue</b>
 
 
 This will create and save your certSigningRequest file (CSR) to your hard drive. 
