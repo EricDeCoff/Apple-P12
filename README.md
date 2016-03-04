@@ -1,7 +1,7 @@
 # Apple-P12
 
 # Convert Apple Certificate into a P12 file
-
+![Image](./image1)
 ## Step 1: Create a “.certSigningRequest” (CSR) file
 * Open Keychain Access on your Mac (found in Applications/Utilities)
 * In the main Keychain Access window, make sure that you don’t have a private key already selected, otherwise this process will not work correctly
