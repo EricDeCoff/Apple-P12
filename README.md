@@ -1,4 +1,8 @@
 # Convert Apple Certificate into a P12 file
+***
+### make sure you have latest certificate: [Apple WWDRCA](https://developer.apple.com/certificationauthority/AppleWWDRCA.cer)
+***
+
 
 ## STEP 1: Create a “.certSigningRequest” (CSR) file
 * Open Keychain Access on your Mac (found in Applications/Utilities)
