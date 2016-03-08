@@ -113,7 +113,9 @@ In the main panel ( Select <b>“Development”</b> or <b>“Production”</b> O
 
 ![Image](./3-03.png)
 
-* Select only these two items (not the public key), by holding SHIFT and clicking both items
+***
+### Make sure to select the certificate and underlying private key 
+***
 * Right click and click <b>“Export 2 items…”</b> from the popup
 
 ![Image](./3-04.png)
